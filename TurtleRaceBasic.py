@@ -1,3 +1,4 @@
+# import libraries
 from random import *
 from turtle import *
 
