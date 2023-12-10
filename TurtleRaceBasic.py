@@ -1,4 +1,4 @@
-# import libraries
+# import libraries to create game
 from random import *
 from turtle import *
 
